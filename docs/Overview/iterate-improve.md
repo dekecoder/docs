@@ -14,4 +14,3 @@ After you've closed the loop, are running consistently and successfully and want
 * Refined analytical modeling
 * Integration with fitness trackers
 
-Next: [Phase 4](iterate-improve.md)
